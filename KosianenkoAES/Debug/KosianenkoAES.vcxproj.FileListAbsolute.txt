@@ -1,0 +1,3 @@
+D:\My\Programs\C++\KosianenkoAES\KosianenkoAES\Debug\KosianenkoAES.vcxprojAssemblyReference.cache
+D:\My\Programs\C++\KosianenkoAES\KosianenkoAES\Debug\KosianenkoAES.MyForm.resources
+D:\My\Programs\C++\KosianenkoAES\KosianenkoAES\Debug\KosianenkoAES.vcxproj.GenerateResource.cache
